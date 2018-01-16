@@ -1,0 +1,30 @@
+{
+  "name": "nodeboilerplate",
+  "version": "1.0.0",
+  "description": "Node Project Boiler Plate",
+  "main": "main.js",
+  "dependencies": {
+   "lodash": "^4.17.4",
+   "express": "^4.16.2",
+   "helmet": "^3.9.0",
+   "body-parser": "^1.18.2",
+   "jsonwebtoken": "^8.1.0",
+   "request": "^2.83.0",
+   "request-promise": "^4.2.2",
+   "rxjs": "^5.5.6",
+   "socket.io": "^2.0.4",
+   "async": "^2.6.0",
+   "validator": "^9.2.0",
+   "uuid": "^3.2.0",
+   "moment": "^2.20.1",
+   "chalk": "^2.3.0",
+   "log4js": "^2.4.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test exist\" && exit 1",
+    "start": "node main.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
